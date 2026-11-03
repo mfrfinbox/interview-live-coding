@@ -1,0 +1,23 @@
+// This is a live-coding interview project — AI code completion is disabled
+// here on purpose, so what the candidate writes reflects their own ability.
+// See RULES.md for the full policy and what still needs a manual check.
+{
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "javascript": false,
+    "javascriptreact": false,
+    "typescript": false,
+    "typescriptreact": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.chat.enabled": false,
+
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.showToolbar": "never",
+
+  "codeium.enableConfig": { "*": false },
+
+  "extensions.ignoreRecommendations": true
+}

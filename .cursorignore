@@ -1,0 +1,3 @@
+# Keep this entire project out of Cursor's AI indexing/context — it's a live
+# coding interview folder, not something an AI assistant should read or help with.
+*

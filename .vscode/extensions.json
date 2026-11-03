@@ -1,0 +1,10 @@
+{
+  "unwantedRecommendations": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "Codeium.codeium",
+    "TabNine.tabnine",
+    "Continue.continue",
+    "AmazonWebServices.amazon-q-vscode"
+  ]
+}
